@@ -1,0 +1,17 @@
+  *{ margin:10px;
+   padding:0px;}
+marquee ol li
+{
+  float:right;
+  lisit-style-type:none;
+}
+li img {
+  border-radius: 8px;
+  height:200px;
+}
+
+ table li{
+ font-size:30px;
+ font-weight:bold;
+ }
+ 
